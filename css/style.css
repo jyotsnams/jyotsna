@@ -1,0 +1,139 @@
+body{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*Navbar*/
+.navbar-right{
+    position: relative;
+    margin-right: auto;
+}
+.navbar-left{
+    position: relative;
+    margin-left: auto;
+}
+.navbar-background{
+    background-color: #9A131D;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: whitesmoke !important;
+}
+
+/*Footer*/
+footer{
+    background-color: #9A131D;
+    padding: 1%;
+    text-align: center;
+    color: whitesmoke;
+}
+.footer-icons{
+    color: whitesmoke;
+    margin-right: 1%;
+}
+
+
+
+/*HOME PAGE*/
+/*Carousel*/
+.carousel-item{
+    height: 430px;
+    padding: 1%;
+}
+.carousel-image{
+    max-width: 100%;
+    height: 400px;
+    padding: 3%;
+}
+.carousel{
+    margin: 0 5% 5% 5%;
+}
+h1,h2,h6{
+    text-align: center;
+}
+.text-content{
+    padding: 3%;
+}
+h5{
+    text-align: justify;
+}
+.carousel-control-prev{
+    opacity: 0;
+}
+
+/*Main image*/
+.main-image{
+    max-width: 100%;
+    position: relative;
+}
+.explore-button{
+    border: 3px solid whitesmoke !important;
+    border-radius: 2rem !important;
+    color: whitesmoke !important;
+    margin-bottom: 5%;
+    position: relative;
+    margin-top: -30%;
+    margin-left: 17%;  
+}
+.explore-button-end{
+    border: 3px solid #9A131D !important;
+    border-radius: 2rem !important;
+}
+
+
+
+/*LOGIN PAGE & SIGNUP PAGE*/
+/*Form*/
+.form-style{
+    border: 2px solid #9A131D;
+    width: 35%;
+    margin: 4% auto 4% auto;
+    padding: 2% 5% 2% 5%;
+}
+.form-links{
+    text-decoration: none;
+    color: #9A131D;
+}
+.form-button{
+    width: 100%;
+    background-color: #9A131D !important;
+    color: whitesmoke !important;
+}
+
+
+/*DISTRICTS PAGE*/
+/*grid system*/
+.district-button{
+    margin: auto;
+    border: 1px solid #9A131D !important;
+    color: #9A131D !important;
+}
+.card-img-top{
+    height: 175px;
+}
+.main-image-districts{
+    max-width: 100%;
+    position: relative;
+}
+
+
+/*all district pages*/
+.about-content{
+    margin: 0 3% 1% 3%;
+    padding: 3%;
+    text-align: justify;
+}
+.small-image{
+    width: 100%;
+    height: 250px;
+}
+.carousel-height{
+    height: 250px;
+}
+.card-text{
+    text-align: justify;
+}
+.cards-margin{
+    margin-right: 1%;
+    width: 32% !important;
+    border-style: none !important;
+}
